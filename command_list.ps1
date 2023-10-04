@@ -1,1 +1,1 @@
-get-command -type cmdlet
+gcm -type cmdlet
